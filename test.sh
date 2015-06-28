@@ -10,3 +10,4 @@ mv $BASE_NAME ./bk/
 
 cd $TODAY
 open -a SublimeText2 index.html
+grunt
